@@ -8,7 +8,7 @@ Include one of the precompiled CSS files (*boostrap-grid.css*/*boostrap-grid.min
 
 # Included
 - Standard [Bootstrap grid classes](https://getbootstrap.com/docs/4.3/layout/grid/)
-- Standard [Bootstrap responsive utility classes](https://getbootstrap.com/docs/4.3/layout/utilities-for-layout/): .visible-\*, .hidden-\*
+- Standard [Bootstrap responsive utility classes](https://getbootstrap.com/docs/4.3/layout/utilities-for-layout/)
 - Precompiled stylesheets with basic grid and grid with extra breakpoint and container with definitions
 - SCSS files *bootstrap-grid.scss* and *bootstrap-grid-etxra.scss* for building your own bootstrap grid, including variables for the grid ( grid-columns, and gutter-width) as well as breakpoint declarations
 
