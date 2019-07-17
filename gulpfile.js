@@ -29,7 +29,7 @@ gulp.task('minifycss-basic', function () {
         .pipe(rename({
             suffix: '.min'
         }))
-        .pipe(gulp.dest('.'));
+        .pipe(gulp.dest('./css'));
 });
 
 gulp.task('minifycss-extra', function () {
@@ -38,7 +38,7 @@ gulp.task('minifycss-extra', function () {
         .pipe(rename({
             suffix: '.min'
         }))
-        .pipe(gulp.dest('.'));
+        .pipe(gulp.dest('./css'));
 });
 
 gulp.task('build', gulp.series(
