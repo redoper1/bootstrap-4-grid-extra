@@ -1,0 +1,35 @@
+{
+  "name": "bootstrap-4-grid-extra",
+  "version": "1.0.0",
+  "description": "Grid and layout utilities extracted from Boostrap 4 with little extra features.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redoper1/bootstrap-4-grid-extra.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "scss",
+    "grid"
+  ],
+  "author": "David Rychlý <david@davidrychly.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redoper1/bootstrap-4-grid-extra/issues"
+  },
+  "homepage": "https://github.com/redoper1/bootstrap-4-grid-extra#readme",
+  "devDependencies": {
+    "autoprefixer": "^8.6.5",
+    "bootstrap": "^4.3.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "dependencies": {}
+}
