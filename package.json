@@ -22,13 +22,13 @@
   },
   "homepage": "https://github.com/redoper1/bootstrap-4-grid-extra#readme",
   "devDependencies": {
-    "autoprefixer": "^9.7.4",
-    "bootstrap": "^4.4.1",
+    "autoprefixer": "^9.8.5",
+    "bootstrap": "^4.5.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean-css": "^4.3.0",
     "gulp-rename": "^2.0.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^2.6.5"
   },
   "dependencies": {}
