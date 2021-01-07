@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-4-grid-extra",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Grid and layout utilities extracted from Bootstrap 4 with little extra features.",
   "main": "gulpfile.js",
   "scripts": {
@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/redoper1/bootstrap-4-grid-extra#readme",
   "devDependencies": {
-    "autoprefixer": "^9.8.5",
-    "bootstrap": "^4.5.0",
+    "autoprefixer": "^9.8.6",
+    "bootstrap": "^4.5.3",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean-css": "^4.3.0",
